@@ -107,7 +107,7 @@ const Login = (props) => {
     }
   }, [dispatch, errorMsg]);
 
-  document.title = "American Distributors llc";
+  document.title = "Suvidha Softwares";
 
   return (
     <React.Fragment>

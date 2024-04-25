@@ -37,7 +37,7 @@ const EditCustomerList = (props) => {
   const history = useNavigate();
   const dispatch = useDispatch();
  
-  document.title = "Create Vendor | American Distributors";
+  document.title = "Create Vendor | Suvidha Softwares";
 
   const [customActiveTab, setcustomActiveTab] = useState("1");
   const toggleCustom = (tab) => {
