@@ -8,6 +8,6 @@ module.exports = {
     APP_ID: "",
   },
   api: {
-    API_URL: "http://localhost:8080/",
+    API_URL: "https://mern-stack-task.onrender.com/",
   }
 };
